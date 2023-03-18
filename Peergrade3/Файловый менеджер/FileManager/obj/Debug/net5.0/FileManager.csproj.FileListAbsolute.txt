@@ -1,0 +1,32 @@
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+D:\Кирилл\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+D:\Кирилл\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.exe
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.deps.json
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.dll
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.pdb
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.dll
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.pdb
+D:\Peers\Peergrade3\Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
